@@ -1,1 +1,1 @@
-# jupyterlab_practice
+This repo is for practicing features of jupyterlab such as markdown, using different views, and running magic commands.
