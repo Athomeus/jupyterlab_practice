@@ -1,0 +1,9 @@
+name: practice_env
+channels:
+  - conda-forge
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - ipykernel
+prefix: /home/james/anaconda3/envs/practice_env
